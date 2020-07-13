@@ -1,11 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bdd202cf-262e-4f58-8109-f5bb054070b6" name="Default Changelist" comment="" />
+    <list default="true" id="bdd202cf-262e-4f58-8109-f5bb054070b6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/css/styles.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/css/styles.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/data.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/data.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/scss/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/app/scss/main.scss" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1ea5AN9lmgBMBJwkraKqnwaLOnC" />
   <component name="ProjectViewState">
@@ -15,6 +25,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2019.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
@@ -42,6 +53,7 @@
       <option name="presentableId" value="Default" />
       <updated>1594546718609</updated>
       <workItem from="1594546721500" duration="20401000" />
+      <workItem from="1594597298294" duration="12788000" />
     </task>
     <servers />
   </component>
@@ -53,9 +65,9 @@
       <screen x="1920" y="0" width="1920" height="1050" />
     </state>
     <state x="2415" y="325" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1050/1920.0.1920.1050@1920.0.1920.1050" timestamp="1594563641287" />
-    <state x="2209" y="170" width="1097" height="824" key="find.popup" timestamp="1594567470826">
+    <state x="2209" y="170" width="1097" height="824" key="find.popup" timestamp="1594601564541">
       <screen x="1920" y="0" width="1920" height="1050" />
     </state>
-    <state x="2209" y="170" width="1097" height="824" key="find.popup/0.0.1920.1050/1920.0.1920.1050@1920.0.1920.1050" timestamp="1594567470826" />
+    <state x="2209" y="170" width="1097" height="824" key="find.popup/0.0.1920.1050/1920.0.1920.1050@1920.0.1920.1050" timestamp="1594601564541" />
   </component>
 </project>
