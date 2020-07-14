@@ -2,12 +2,180 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bdd202cf-262e-4f58-8109-f5bb054070b6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__MACOSX/._app" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__MACOSX/._gulpfile.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__MACOSX/._readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__MACOSX/app/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__MACOSX/app/._css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__MACOSX/app/._data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__MACOSX/app/._fonts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__MACOSX/app/._ht.access" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__MACOSX/app/._img" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__MACOSX/app/._index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__MACOSX/app/._js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__MACOSX/app/._scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__MACOSX/app/css/._styles.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__MACOSX/app/fonts/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__MACOSX/app/fonts/._BigShouldersText-Light.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__MACOSX/app/fonts/._TitilliumWeb-Light.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__MACOSX/app/fonts/._bigshoulderstext-regular-webfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__MACOSX/app/fonts/._titilliumweb-regular-webfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__MACOSX/app/img/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__MACOSX/app/img/.__src" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__MACOSX/app/img/._favicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__MACOSX/app/img/._ogg1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__MACOSX/app/img/._ogg2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__MACOSX/app/img/._ogg3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__MACOSX/app/img/._ogg4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__MACOSX/app/img/_src/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__MACOSX/app/img/_src/._about.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__MACOSX/app/img/_src/._about2.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__MACOSX/app/img/_src/._about3.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__MACOSX/app/img/_src/._about4.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__MACOSX/app/img/_src/._angular.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__MACOSX/app/img/_src/._appStore.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__MACOSX/app/img/_src/._aws.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__MACOSX/app/img/_src/._check.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__MACOSX/app/img/_src/._contactsBg.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__MACOSX/app/img/_src/._googlePlay.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__MACOSX/app/img/_src/._js.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__MACOSX/app/img/_src/._logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__MACOSX/app/img/_src/._mouse.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__MACOSX/app/img/_src/._node.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__MACOSX/app/img/_src/._poster.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__MACOSX/app/img/_src/._react.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__MACOSX/app/img/_src/._rn.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__MACOSX/app/img/_src/._vue.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__MACOSX/app/img/_src/cases/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__MACOSX/app/img/_src/cases/._all.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__MACOSX/app/img/_src/cases/._allLogo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__MACOSX/app/img/_src/cases/._allSm.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__MACOSX/app/img/_src/cases/._allXs.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__MACOSX/app/img/_src/cases/._arsn.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__MACOSX/app/img/_src/cases/._arsnLogo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__MACOSX/app/img/_src/cases/._arsnSm.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__MACOSX/app/img/_src/cases/._ce.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__MACOSX/app/img/_src/cases/._ceLogo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__MACOSX/app/img/_src/cases/._ceSm.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__MACOSX/app/img/_src/cases/._ceXs.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__MACOSX/app/img/_src/cases/._cg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__MACOSX/app/img/_src/cases/._cgLogo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__MACOSX/app/img/_src/cases/._cgSm.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__MACOSX/app/img/_src/cases/._cgXs.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__MACOSX/app/img/_src/cases/._fs.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__MACOSX/app/img/_src/cases/._fsLogo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__MACOSX/app/img/_src/cases/._fsSm.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__MACOSX/app/img/_src/cases/._fsXs.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__MACOSX/app/img/_src/cases/._hh.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__MACOSX/app/img/_src/cases/._hhLogo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__MACOSX/app/img/_src/cases/._hhSm.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__MACOSX/app/img/_src/cases/._hhXs.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__MACOSX/app/img/_src/cases/._hippo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__MACOSX/app/img/_src/cases/._hippoLogo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__MACOSX/app/img/_src/cases/._hippoSm.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__MACOSX/app/img/_src/cases/._not.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__MACOSX/app/img/_src/cases/._notLogo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__MACOSX/app/img/_src/cases/._notSm.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__MACOSX/app/img/_src/cases/._offer.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__MACOSX/app/img/_src/cases/._offerLogo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__MACOSX/app/img/_src/cases/._offerSm.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__MACOSX/app/img/_src/cases/._outfit.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__MACOSX/app/img/_src/cases/._outfitLogo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__MACOSX/app/img/_src/cases/._outfitSm.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__MACOSX/app/img/_src/cases/._pic.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__MACOSX/app/img/_src/cases/._picLogo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__MACOSX/app/img/_src/cases/._picSm.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__MACOSX/app/img/_src/cases/._picXs.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__MACOSX/app/img/_src/cases/._prommii.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__MACOSX/app/img/_src/cases/._prommiiSm.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__MACOSX/app/img/_src/cases/._prommiiXs.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__MACOSX/app/img/_src/cases/._promomiiLogo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__MACOSX/app/img/_src/cases/._se.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__MACOSX/app/img/_src/cases/._seLogo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__MACOSX/app/img/_src/cases/._seSm.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__MACOSX/app/img/_src/cases/._seXs.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__MACOSX/app/img/_src/cases/._svt.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__MACOSX/app/img/_src/cases/._svtLogo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__MACOSX/app/img/_src/cases/._svtSm.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__MACOSX/app/img/_src/cases/._tic.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__MACOSX/app/img/_src/cases/._ticLogo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__MACOSX/app/img/_src/cases/._ticSm.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__MACOSX/app/img/_src/cases/._ticXs.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__MACOSX/app/img/_src/clients/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__MACOSX/app/img/_src/clients/._all.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__MACOSX/app/img/_src/clients/._bbc-2.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__MACOSX/app/img/_src/clients/._cce.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__MACOSX/app/img/_src/clients/._fs.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__MACOSX/app/img/_src/clients/._gkn.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__MACOSX/app/img/_src/clients/._svt.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__MACOSX/app/img/_src/flags/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__MACOSX/app/img/_src/flags/._au.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__MACOSX/app/img/_src/flags/._bg.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__MACOSX/app/img/_src/flags/._sw.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__MACOSX/app/img/_src/flags/._ua.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__MACOSX/app/img/_src/flags/._uae.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__MACOSX/app/img/_src/flags/._uk.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__MACOSX/app/img/_src/flags/._usa.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__MACOSX/app/img/_src/services/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__MACOSX/app/img/_src/services/._ai-ml.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__MACOSX/app/img/_src/services/._angular.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__MACOSX/app/img/_src/services/._aws.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__MACOSX/app/img/_src/services/._awsSecond.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__MACOSX/app/img/_src/services/._f.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__MACOSX/app/img/_src/services/._java.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__MACOSX/app/img/_src/services/._mobApp.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__MACOSX/app/img/_src/services/._node.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__MACOSX/app/img/_src/services/._react.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__MACOSX/app/img/_src/services/._redux.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__MACOSX/app/img/_src/services/._rn.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__MACOSX/app/img/_src/services/._sls.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__MACOSX/app/img/_src/services/._swift.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__MACOSX/app/img/_src/services/._vue.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__MACOSX/app/img/_src/services/._webDev.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__MACOSX/app/img/_src/socials/._LinkedIn.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__MACOSX/app/img/_src/socials/._clutch.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__MACOSX/app/img/_src/socials/._fb.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__MACOSX/app/img/_src/socials/._upwork.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__MACOSX/app/js/.__custom.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__MACOSX/app/js/.__libs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__MACOSX/app/js/._scripts.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__MACOSX/app/scss/.__fonts.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__MACOSX/app/scss/.__libs.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__MACOSX/app/scss/.__vars.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__MACOSX/app/scss/._main.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__MACOSX/app/video/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__MACOSX/app/video/._banner.mp4" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/app/css/styles.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/css/styles.min.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/data.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/data.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/img/_src/about2.svg" beforeDir="false" afterPath="$PROJECT_DIR$/app/img/_src/about2.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/img/_src/about3.svg" beforeDir="false" afterPath="$PROJECT_DIR$/app/img/_src/about3.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/img/_src/about4.svg" beforeDir="false" afterPath="$PROJECT_DIR$/app/img/_src/about4.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/img/_src/cases/donesi.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/img/_src/cases/fundseeder.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/img/_src/cases/hemlane.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/img/_src/cases/mawi.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/img/_src/cases/promoMii.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/img/_src/cases/qonto.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/img/_src/cases/readyPropertyFinal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/img/_src/cases/realmaster.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/img/_src/cases/svt.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/img/_src/flags/usa.svg" beforeDir="false" afterPath="$PROJECT_DIR$/app/img/_src/flags/usa.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/img/_src/js.svg" beforeDir="false" afterPath="$PROJECT_DIR$/app/img/_src/js.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/img/_src/logo.svg" beforeDir="false" afterPath="$PROJECT_DIR$/app/img/_src/logo.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/img/_src/mouse.svg" beforeDir="false" afterPath="$PROJECT_DIR$/app/img/_src/mouse.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/img/_src/poster.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/app/img/_src/poster.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/img/_src/services/aws.svg" beforeDir="false" afterPath="$PROJECT_DIR$/app/img/_src/services/aws.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/img/_src/services/java.svg" beforeDir="false" afterPath="$PROJECT_DIR$/app/img/_src/services/java.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/img/_src/services/node.svg" beforeDir="false" afterPath="$PROJECT_DIR$/app/img/_src/services/node.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/img/_src/services/rn.svg" beforeDir="false" afterPath="$PROJECT_DIR$/app/img/_src/services/rn.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/img/_src/services/sls.svg" beforeDir="false" afterPath="$PROJECT_DIR$/app/img/_src/services/sls.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/img/_src/services/vue.svg" beforeDir="false" afterPath="$PROJECT_DIR$/app/img/_src/services/vue.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/js/_custom.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/js/_custom.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/js/scripts.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/js/scripts.min.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/scss/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/app/scss/main.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/video/banner-old.mp4" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +221,8 @@
       <option name="presentableId" value="Default" />
       <updated>1594546718609</updated>
       <workItem from="1594546721500" duration="20401000" />
-      <workItem from="1594597298294" duration="12788000" />
+      <workItem from="1594597298294" duration="15449000" />
+      <workItem from="1594691449427" duration="10771000" />
     </task>
     <servers />
   </component>
@@ -65,9 +234,9 @@
       <screen x="1920" y="0" width="1920" height="1050" />
     </state>
     <state x="2415" y="325" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1050/1920.0.1920.1050@1920.0.1920.1050" timestamp="1594563641287" />
-    <state x="2209" y="170" width="1097" height="824" key="find.popup" timestamp="1594601564541">
+    <state x="2209" y="170" width="1097" height="824" key="find.popup" timestamp="1594696974882">
       <screen x="1920" y="0" width="1920" height="1050" />
     </state>
-    <state x="2209" y="170" width="1097" height="824" key="find.popup/0.0.1920.1050/1920.0.1920.1050@1920.0.1920.1050" timestamp="1594601564541" />
+    <state x="2209" y="170" width="1097" height="824" key="find.popup/0.0.1920.1050/1920.0.1920.1050@1920.0.1920.1050" timestamp="1594696974882" />
   </component>
 </project>

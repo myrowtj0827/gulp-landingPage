@@ -23,13 +23,17 @@ function playVideo() {
   const myVideo = document.querySelector(".banner__videoBg");
 
   myVideo.play();
+
+  const myVideoMobile = document.querySelector(".banner__videoBg_mobile");
+
+  myVideoMobile.play();
 }
 
 document.addEventListener("DOMContentLoaded", () => {
   const preloader = document.querySelector(".preloader");
   if (
-    navigator.userAgent.indexOf("Safari") !== -1 &&
-    navigator.userAgent.indexOf("Chrome") === -1
+    navigator.userAgent.indexOf("Safari") != -1 &&
+    navigator.userAgent.indexOf("Chrome") == -1
   ) {
     // preloader.classList.add("preloader_hidden");
 
